@@ -118,7 +118,7 @@ This is a quick collection of incremental steps to learn how to build a dataviz:
 
   - Almost a default choice for every Accurat project
   - Quickstart: https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
-  - The official Handbook: https://www.typescriptlang.org/docs/handbook/basic-types.html
+  - The official Handbook: https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
 
 **Svelte**
 
